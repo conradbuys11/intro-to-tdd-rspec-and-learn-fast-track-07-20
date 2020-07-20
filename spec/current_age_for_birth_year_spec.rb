@@ -7,3 +7,10 @@ describe "current_age_for_birth_year method" do
     expect(age_of_person).to eq(19)
   end
 end
+
+
+things_array = ["Furry", "Potato", "Panda", "Obtuse", "Notebook", "Cat", "Donut", "Blue", "Conrad", "Dog", "Phone", "Anime", "Pikachu", "Coffee", "Mints"]
+
+def generate_link(arr)
+  
+end
