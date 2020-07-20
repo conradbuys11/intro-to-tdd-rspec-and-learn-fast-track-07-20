@@ -12,5 +12,5 @@ end
 things_array = ["Furry", "Potato", "Panda", "Obtuse", "Notebook", "Cat", "Donut", "Blue", "Conrad", "Dog", "Phone", "Anime", "Pikachu", "Coffee", "Mints"]
 
 def generate_link(arr)
-  #{string}
+  
 end
